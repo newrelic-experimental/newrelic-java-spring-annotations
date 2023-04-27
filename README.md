@@ -19,10 +19,9 @@
 
 # New Relic Java Instrumentation for Spring Annotations
 
+ Provides instrumentation beyond the @Controller annotation that the product provides.
 
-## Provides instrumentation beyond the @Controller annotation that the product provides
-
-Will instrument all methods of classes with the @Component, @Service & @Repository annotations
+ Will instrument all methods of classes with the @Component, @Service & @Repository annotations
 
 
 ## Installation
