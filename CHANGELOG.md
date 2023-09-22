@@ -1,3 +1,7 @@
+## Version: [v1.0.1](https://github.com/newrelic-experimental/newrelic-java-spring-annotations/releases/tag/v1.0.1) | Created: 2023-09-22
+
+
+
 ## Installation
 
 To install:
